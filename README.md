@@ -1,6 +1,6 @@
 # z2m-jp-LED2103G5-fixer
 
-Zigbee2MQTT external converter for the [Japanese variant of the LED2103G5](https://www.ikea.com/jp/en/p/tradfri-led-bulb-e26-810-lumen-smart-wireless-dimmable-warm-white-globe-30541515/).  
+Zigbee2MQTT external converter for the [Japanese variant of the Ikea LED2103G5](https://www.ikea.com/jp/en/p/tradfri-led-bulb-e26-810-lumen-smart-wireless-dimmable-warm-white-globe-30541515/).  
 This variant shows up as a 810 lumen bulb unlike the LED2103G5 from other regions rated for 806lm, which throws off detection in Zigbee2MQTT.  
 
 
